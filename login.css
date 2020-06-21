@@ -3,3 +3,7 @@ body {
     background-color: skyblue;
     font-weight: 200;
 }
+
+div {
+    margin: 0 auto;
+}
